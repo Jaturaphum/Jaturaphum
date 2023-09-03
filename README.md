@@ -17,7 +17,7 @@
 
 <h2>🔥 Streak Stats</h2>
 
-<p>
+<p ailgn= center>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaturaphum&theme=radical&langs_count=6&layout=compact" alt="jaturaphum" />
 </p>
 
