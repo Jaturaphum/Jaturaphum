@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaturaphum&label=Profile%20views&color=0e75b6&style=flat" alt="jaturaphum" /> </p>
 <img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
-
 - 🌱 I’m currently learning **Kasetsart University**
 
 - 💬 Ask me about **Ask me yourself**
@@ -11,7 +9,8 @@
 - 📫 Contact me at **suaprakhon2002@gmail.com**
 
 - ⚡ Fun fact **A funny person, chilling with work**
-
+- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jaturaphum suaprakhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaturaphum suaprakhon" height="30" width="40" /></a>
