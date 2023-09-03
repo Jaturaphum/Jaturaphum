@@ -1,14 +1,13 @@
 <h1 align="center">Hi👋,I,Am Jaturaphum</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaturaphum&label=Profile%20views&color=0e75b6&style=flat" alt="jaturaphum" /> </p>
 <img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+- 📫 Contact me at **suaprakhon2002@gmail.com**
 
 - 🌱 I’m currently learning **Kasetsart University**
 
-- 💬 Ask me about **Ask me yourself**
-
-- 📫 Contact me at **suaprakhon2002@gmail.com**
-
 - ⚡ Fun fact **A funny person, chilling with work**
+
+- 💬 Ask me about **Ask me yourself**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
