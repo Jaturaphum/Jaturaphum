@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋,I,Am Jaturaphum</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaturaphum&label=Profile%20views&color=0e75b6&style=flat" alt="jaturaphum" /> </p>
 <img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 - 📫 Contact me at **suaprakhon2002@gmail.com**
 
