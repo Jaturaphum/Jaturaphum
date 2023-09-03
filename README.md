@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,My Name Is Jaturaphum Suaprakhon</h1>
 <img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
-- ✉️ Send me a message at **suaprakhon2002@gmail.com**
+- ✉️ Send me a message at **suaprakhon@gmail.com**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
 <h3 align="left">Connect with me:</h3>
