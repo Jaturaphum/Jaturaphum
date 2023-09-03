@@ -17,12 +17,12 @@
 
 <h2>🔥 Streak Stats</h2>
 
-<p ailgn= center>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaturaphum&theme=radical&langs_count=6&layout=compact" alt="jaturaphum" />
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaturaphum&theme=radical&langs_count=6&layout=compact" alt="jaturaphum" />
 </p>
 
 <h2>📊 Stats</h2>
 
 <p>&nbsp;
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaturaphum&show_icons=true&theme=radical&locale=en" alt="jaturaphum" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaturaphum&show_icons=true&theme=radical&locale=en" alt="jaturaphum" />
 </p>
