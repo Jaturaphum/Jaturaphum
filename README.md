@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,My Name Is Jaturaphum Suaprakhon</h1>
 
  🖥️---Computer Engineering---- 🖥️
-<img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+<img align="right" alt="coding" wight="240px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 - ✉️ Send me a message at **suaprakhon2002@gmail.com**
 
