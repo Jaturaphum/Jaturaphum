@@ -1,13 +1,6 @@
-<h1 align="center">Hi👋,I,Am Jaturaphum</h1>
+<h1 align="center">Hi👋,My Name Is Jaturaphum Suaprakhon</h1>
 <img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
-
-- 📫 Contact me at **suaprakhon2002@gmail.com**
-
-- 🌱 I’m currently learning **Kasetsart University**
-
-- ⚡ Fun fact **A funny person, chilling with work**
-
-- 💬 Ask me about **Ask me yourself**
+- ✉️ Send me a message at **suaprakhon2002@gmail.com**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
 <h3 align="left">Connect with me:</h3>
