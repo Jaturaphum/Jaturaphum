@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaturaphum&show_icons=true&locale=en&layout=compact" alt="jaturaphum" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaturaphum&show_icons=true&title_color=#3498DB&bg_color=#909497&locale=en" alt="jaturaphum" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaturaphum&show_icons=true&title_color=#3498DB&fill_color=#909497&locale=en" alt="jaturaphum" /></p>
