@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaturaphum</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaturaphum&label=Profile%20views&color=0e75b6&style=flat" alt="jaturaphum" /> </p>
-<img align="right" alt="coding" wight="400px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+<img align="right" alt="coding" wight="480px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaturaphum" alt="jaturaphum" /></a> </p>
 
