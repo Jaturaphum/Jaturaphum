@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,My Name Is Jaturaphum Suaprakhon</h1>
+<h1 align="center">Hi👋,My Name Is Jaturaphum</h1>
 
  🖥️---Computer Engineering---- 🖥️
 <img align="right" alt="coding" wight="240px" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
