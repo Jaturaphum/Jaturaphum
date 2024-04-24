@@ -1,4 +1,9 @@
 <h1 align="center">Hi I'm Jaturaphum 👋</h1>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jaturaphum/count.svg?"  />
+</div>
 
 ###
 
@@ -13,9 +18,14 @@
 ###
 
 <div align="center">
-  <a href="https://fb.com/jaturaphum suaprakhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaturaphum suaprakhon" height="30" width="40" /></a>
-<a href="https://instagram.com/jatunnxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatunnxd" height="30" width="40" /></a>
-<a href="https://discord.gg/jatu.nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatu.nn" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
+  <a href="https://www.instagram.com/jatunnxd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
+  </a>
+  <a href="mailto:suaprakhon2002@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
 </div>
 
 ###
@@ -135,11 +145,17 @@
 </div>
 
 ###
-<h2 align="left">Skills</h2>
+<h2 align="left">Status</h2>
+
+###
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaturaphum&show_icons=true&locale=en&layout=compact" alt="jaturaphum" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaturaphum&show_icons=true&locale=en" alt="jaturaphum" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaturaphum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaturaphum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jaturaphum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Jaturaphum&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaturaphum&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 ###
 
