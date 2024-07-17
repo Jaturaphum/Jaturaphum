@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009976096742" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/jatunnxd/" target="_blank">
+  <a href="https://www.instagram.com/jatunnx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:suaprakhon2002@gmail.com" target="_blank">
